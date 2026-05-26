@@ -21,7 +21,9 @@
   **I love Manchester United**
 
 - 💼 LinkedIn  
-  **[Illan Makolija](https://www.linkedin.com/in/illan-makolija/)**
+  <a href="https://www.linkedin.com/in/illan-makolija/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Illan Makolija LinkedIn" height="30" width="40" />
+  </a>
 
 ---
 
