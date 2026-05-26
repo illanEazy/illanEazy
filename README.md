@@ -20,6 +20,9 @@
 - ⚡ Fun fact  
   **I love Manchester United**
 
+- 💼 LinkedIn  
+  **[Illan Makolija](https://www.linkedin.com/in/illan-makolija/)**
+
 ---
 
 <h3 align="left">Languages & Tools</h3>
