@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=illaneazy&label=Profile%20views&color=0e75b6&style=flat" alt="illaneazy" />
 </p>
 
-- 🔭 I'm currently working on **AI projects**
+- 🔭 I'm currently exploring some on **AI projects**
 
 - 🌱 Currently exploring **Artificial Intelligence, Machine Learning, and modern full-stack technologies**
 
