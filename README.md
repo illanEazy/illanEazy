@@ -8,9 +8,9 @@
 
 ## 👋 About me
 
-I'm a software engineer and University of Cape Town Informatics graduate, based in South Africa. I take a business problem from requirements to a deployed product, including payments, login, email and the debugging that comes after launch.
+I design and ship full-stack products for real businesses: e-commerce, galleries, admin dashboards and company sites. I own the whole path from requirements to production, including payments, authentication, transactional email, deployment and post-launch support.
 
-My background in Sociology and Industrial Psychology shapes how I design: software should fit the people who use it.
+My systems analysis and business background means I start with the problem, not the framework. Software should fit the people who use it.
 
 <br>
 
