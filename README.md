@@ -1,144 +1,77 @@
-<h1 align="center">Hi 👋, I'm Illan Gusto Bhekisisa Makolija</h1>
-<h3 align="center">Full-Stack Software Developer | AI Enthusiast</h3>
+<h1 align="center">Illan Makolija</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=illaneazy&label=Profile%20views&color=0e75b6&style=flat" alt="illaneazy" />
+<p align="center">
+  <b>Full-Stack Software Engineer</b><br>
+  I build web apps that real businesses use every day.
 </p>
 
-- 🔭 I'm currently exploring some on **AI projects**
-
-- 🌱 Currently exploring **Artificial Intelligence, Machine Learning, and modern full-stack technologies**
-
-- 👯 I'm open to collaborating on **full-stack and AI-driven projects**
-
-- 👨‍💻 All of my projects are available at  
-  **https://illaneazy.pythonanywhere.com/**
-
-- 📫 How to reach me  
-  **illaneazy@gmail.com**
-
-- ⚡ Fun fact  
-  **I love Manchester United**
-
-- 💼 LinkedIn  
-  <a href="https://www.linkedin.com/in/illan-makolija/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Illan Makolija LinkedIn" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://illaneazy.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/illan-makolija/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:illaneazy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+### About me
 
-<table>
-<tr>
+I'm a software engineer and University of Cape Town Informatics graduate, based in South Africa. I take a business problem from requirements to a deployed product, including payments, login, email and the debugging that comes after launch.
 
-<td valign="top" width="25%">
+My background in Sociology and Industrial Psychology shapes how I design: software should fit the people who use it.
 
-### Frontend
+---
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-</a>
+### Tech stack
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-</a>
+**Languages**
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
+**Frontend**
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-</a>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-</a>
+**Backend**
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-</a>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</td>
+**Databases**
 
-<td valign="top" width="25%">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Backend
+**Tools and deployment**
 
-<div align="center">  
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+---
 
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
-</a>
+### Selected work
 
-<a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
-</a>
-</div>
+| Project | What it is | Built with |
+|---|---|---|
+| **Camps Bay Gallery** | Online art gallery with checkout, login and image hosting | Django, PostgreSQL, Yoco, Cloudinary |
+| **Crafted Thryfte** | Online shop and admin dashboard for a fashion resale business | Django, Pandas, Chart.js |
+| **Shield Protect Security** | Company website with a contact-form email system | Next.js, TypeScript, Prisma |
+| **Coelho Trading Robot** | Trading bot with backtesting and a live dashboard (in development) | FastAPI, React, TypeScript |
 
-</td>
+More at **[illaneazy.pythonanywhere.com](https://illaneazy.pythonanywhere.com/)**
 
-<td valign="top" width="25%">
+---
 
-### Databases
-
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-</a>
-</div>
-
-</td>
-
-<td valign="top" width="25%">
-
-### AI / Tools
-
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
-</a>
-</div>
-
-</td>
-
-</tr>
-</table>
+<p align="center">Open to full-stack roles and collaborations. Get in touch at <a href="mailto:illaneazy@gmail.com">illaneazy@gmail.com</a></p>
